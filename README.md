@@ -2,12 +2,14 @@
 Measure CO2 concentration indoors with the TTGO microcontroller and S8 sensor
 This project was developed with the project: https://letsair.org/
  The resources can be found here:https://nousaerons.fr/makersco2/
- Programs for testing are available on this github
- 1- ESP32 devmodule : https://github.com/Hana205/CO2/blob/main/esp32RGB.ino
+ Programs for testing are available on this GitHub
+
+1- ESP32 devmodule : https://github.com/Hana205/CO2/blob/main/esp32RGB.ino
  2-esp32 devmodule with Bluetooth code and app
  https://github.com/Hana205/CO2/blob/main/ESP32_S8_BLUETOOTH.ino
  https://github.com/Hana205/CO2/blob/main/ESP32_S8_BLUETOOTH.apk
- 3-TTGo vesion with TFT dispaly
+ 3-esp32 with wifi : using adafruit.io : d'ont forget to creat an account and get user id and key for the code https://github.com/Hana205/CO2/blob/main/wifico2.ino
+ 4-TTGo vesion with TFT dispaly
  https://github.com/Hana205/CO2/blob/main/ttgo.ino
  
  for the wiring go to https://github.com/Hana205/CO2/blob/main/co2meter_nousaerons.pdf
